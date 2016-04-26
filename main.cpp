@@ -32,6 +32,6 @@ int main(int argc, char *argv[]) {
 
 	} // if 
 
-	return(0);  // that's all folks
+	return(0);  
 } // main()
 
