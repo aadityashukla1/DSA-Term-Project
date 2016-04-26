@@ -1,8 +1,6 @@
 #include "k-means-multi.h"
 #include <ctime>
 
-
-
 int main(int argc, char *argv[]) {
 
 	// local variables
